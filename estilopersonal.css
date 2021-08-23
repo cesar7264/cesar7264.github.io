@@ -4,11 +4,25 @@
     box-sizing: border-box;
 }
 
-body{
-    background-image: url('imagenes/fondo1.jpg');
+.fond{
+    background-image: url('imagenes/fondo3.png');
     background-size: cover;
     font-family:'Oswald', sans-serif;
 }
+
+.fondcontacto{
+    background-image: url('imagenes/contacto.jpg');
+    background-size: cover;
+    font-family:'Oswald', sans-serif;
+}
+
+.textcontacto{
+    color: rgb(255, 255, 255);
+}
+
+.a{
+    color: white;
+} 
 
 .box{
     width: 500px;
